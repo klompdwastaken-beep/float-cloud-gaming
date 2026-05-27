@@ -6,3 +6,4 @@ Screenshots
 ***
 A cloud gaming service for free, Absolutely NO ADS!
 https://float-cg.netlify.app
+https://floated-floater.wasmer.app
